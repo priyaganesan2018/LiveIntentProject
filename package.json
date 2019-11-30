@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test live intent web page",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "5.4.2",
+    "jasmine": "3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priya",
+  "license": "ISC"
+}
